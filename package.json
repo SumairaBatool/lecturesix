@@ -1,0 +1,16 @@
+{
+  "name": "lecture6",
+  "version": "1.0.0",
+  "description": "this is sex video",
+  "main": "index.js",
+  "scripts": {
+   "start":"noddemon inddex.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumaira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
